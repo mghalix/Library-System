@@ -155,7 +155,7 @@ void LibraryRunner::runApp(void) {
   int choice;
   do {
     mainMenu(choice);
-
   } while (choice != 0);
+
 }
 //------------------------------------------------------------------------------
